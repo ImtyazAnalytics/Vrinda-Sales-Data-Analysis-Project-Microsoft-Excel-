@@ -1,4 +1,4 @@
-# Vrinda Clothing Studio: 2020 Sales Analysis Report
+# Vrinda Clothing Studio: 2020 Sales Analysis Report (Microsoft Excel)
 
 ## Introduction
 
